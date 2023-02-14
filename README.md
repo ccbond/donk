@@ -1,2 +1,2 @@
-# donkey-clis
-donkey 是一个用于取代日常开发工作中会遇到的一些复杂的鼠标指令的命令行工具集。
+# donk
+donk is a set of command-line tools designed to replace some of the complex mouse instructions you encounter in your daily development work.
